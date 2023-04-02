@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">赞成之</string>
+    <string name="description">"牛轧糖用糖或蜜、炙坚果(杏仁、核桃、开心果、榛子、澳洲坚果常见)、搅打蛋清,时有切碎蜜饯糖果家。 施于糖果棒巧克力。 "</string>
+    <string name="nougat">牛轧糖糖果套餐</string>
+    <string name="help_text">若须助,请系吾曹。</string>
+    <string name="dial_log_message">无以解析ACTION_DIAL意之用。</string>
+    <string name="action_language">语言</string>
+    <string name="expired_label">到期日。</string>
+    <string name="item_price">每件商品价格 (印尼盾)。</string>
+    <string name="input_price">输入价格项目</string>
+    <string name="convert_price">计总价</string>
+    <string name="item_price_100">每 100 一物价。</string>
+</resources>
